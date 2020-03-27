@@ -44,7 +44,7 @@
     "lint-staged": "^7.0.4",
     "minimist": "^1.2.0",
     "yorkie": "^1.0.3",
-    "inquirer": "^6.2.0",
+    "inquirer": "^7.1.0",
     "typescript": "^3.2.2",
     "@types/node": "^10.12.12",
     "@types/lru-cache": "^4.1.1",
